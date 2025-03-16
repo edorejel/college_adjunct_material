@@ -13,3 +13,14 @@ college adjunct material
 - - - __Student Work Sample #4:__ [Reflective Open-Ended Essay Question #2 - Use Only Arrays for Programs](https://github.com/edorejel/teaching_docs/blob/main/raovloa.pdf)
 - - - __Student Work Sample #5:__ [Reflective Open-Ended Essay Question #3 - "To Loop or Not To Loop" Programming without Loops?](https://github.com/edorejel/teaching_docs/blob/main/cs116_chapter5_reflective_writing_assignment_1.pdf) 
 - - - __Student Work Sample #6:__ [Sample Software Engineering Project: Language Translation Using Technology](https://github.com/edorejel/teaching_docs/blob/main/sample_SWE_project_TLT.pdf) 
+
+
+## Academic Material 
+- :pencil: [My Sample Teaching Philosophy Statement](https://github.com/edorejel/teaching_docs/blob/main/teaching_philosophy_statement/teaching_statement_page_1.pdf) - _Page 1 of the Teaching Philosophy has been uploaded. The entire statement is given upon request with intent to hire!_
+- :pencil: [My Sample Inclusivity & Diversity Statement](https://github.com/edorejel/teaching_docs/blob/main/equity_diversity_statement/page_1_diversity_equity_statement.pdf) - _Page 1 of the statement has been uploaded. The entire statement is given upon request with intent to hire!_
+- :pencil: Training & Experience Statement - _given upon request with intent to hire!_
+- :pencil: Sample Syllabus: - _given upon request with intent to hire!_
+- - :pencil: Sample Canvas Online Course Modules - _given upon request with intent to hire!_
+- - - :pencil: C++ Sample Learning Unit - _given upon request with intent to hire!_
+- :pencil: CV - _given upon request with intent to hire!_
+- :nerd_face: Copies of Official Transcripts - _given upon request with intent to hire!_
