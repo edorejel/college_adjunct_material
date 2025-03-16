@@ -24,3 +24,24 @@ college adjunct material
 - - - :pencil: C++ Sample Learning Unit - _given upon request with intent to hire!_
 - :pencil: CV - _given upon request with intent to hire!_
 - :nerd_face: Copies of Official Transcripts - _given upon request with intent to hire!_
+
+## Computer Science Lectures and Video Lectures
+
+### HTML, CSS, JavaScript Lecture Notes :pencil:
+- - - __Front-end HTML, CSS, JavaScript Web Dev__ - [HTML - Sample Introductory Lesson to HTML Web Dev](https://github.com/edorejel/teaching_docs/blob/main/lecture-notes/html-web-dev/lesson_zero_html.pdf)
+    - __Sample HTML Coding Laboratory 0:__ - [HTML Coding Laboratory ](https://github.com/edorejel/teaching_docs/blob/main/lecture-notes/html-web-dev/labs/Laboratory%200%20-%20Your%20First%20HTML%20and%20CSS%20Documents.pdf)
+
+### Java Lecture Notes
+- - - Java Methods - coming soon!
+      
+### C++ Lecture Notes
+- - - C++ Functions - coming soon!
+
+### Python Lecture Notes
+- - - Python Functions - coming soon!
+- - - __Student Work Sample #3:__ [Reflective Open-Ended Essay Question #1 - Good vs Best Programs](https://github.com/edorejel/teaching_docs/blob/main/ssa_3.pdf)
+    -  __PDF Version of Sample #3:__ [Reflective Open-Ended Essay Question #1 - Good vs Best Programs](https://github.com/edorejel/teaching_docs/blob/main/ssa_3_py.pdf)
+      
+### General Computer Science Lecture Notes
+- - - Arrays - coming soon!
+- - - Object Oriented Programming - coming soon!
